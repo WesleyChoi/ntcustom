@@ -1,0 +1,16 @@
+{
+    "manifest_version": 2,
+    "name": "ntcode",
+    "version": "1.0.0",
+    "description": "Custom New Tab",
+    
+    "chrome_url_overrides" : {
+        "pageToOverride": "index.html"
+      },
+
+      "permissions": [
+        "tabs",
+        "activeTab",
+      ],
+  }
+  
