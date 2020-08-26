@@ -5,12 +5,12 @@
     "description": "Custom New Tab",
     
     "chrome_url_overrides" : {
-        "pageToOverride": "index.html"
+        "newtab": "index.html"
       },
 
       "permissions": [
         "tabs",
-        "activeTab",
-      ],
+        "activeTab"
+      ]
   }
   

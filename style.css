@@ -6,9 +6,9 @@ body{
 .clock{
     position: absolute;
     top: 40%;
-    right: 10%;
+    left: 65%;
     transform: translateX(-40%) translateY (-40%);
     color: #fff;
-    font-size: 8em;
+    font-size: 12em;
     font-family: "Brush Script MT", cursive;
 }
