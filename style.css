@@ -5,10 +5,10 @@ body{
 
 .clock{
     position: absolute;
-    top: 40%;
-    left: 65%;
+    top:40%;
+    left: 43%;
     transform: translateX(-40%) translateY (-40%);
     color: #fff;
-    font-size: 12em;
-    font-family: "Brush Script MT", cursive;
+    font-size: 2em;
+    font-family: "Courier New";
 }
